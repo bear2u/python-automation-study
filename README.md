@@ -39,6 +39,7 @@
 - [이북](https://www.packtpub.com/application-development/python-automation-cookbook)
 - [파이썬](https://www.python.org/)
 - [이북(무료)](https://automatetheboringstuff.com/)
+- [패캠교육(커리큘럼 참고용)](https://www.fastcampus.co.kr/biz_camp_python4auto/) 
 
 
   
