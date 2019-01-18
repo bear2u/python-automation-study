@@ -44,6 +44,7 @@
 - [파이썬](https://www.python.org/)
 - [이북(무료)](https://automatetheboringstuff.com/)
 - [점프투파이썬](https://wikidocs.net/book/1)
+- [How to Build a Python Bot That Can Play Web Games](https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117)
 
 ### 툴 사용
 
