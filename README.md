@@ -43,6 +43,7 @@
 - [이북](https://www.packtpub.com/application-development/python-automation-cookbook)
 - [파이썬](https://www.python.org/)
 - [이북(무료)](https://automatetheboringstuff.com/)
+- [점프투파이썬](https://wikidocs.net/book/1)
 
 
   
