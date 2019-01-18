@@ -34,12 +34,15 @@
 - 3주차 : 레포트 자동화
 - 4주차 : 스프레드 시트를 자동화
 
+### 스터디 참고용
+![image](https://user-images.githubusercontent.com/9362317/51380406-0d405200-1b55-11e9-8f7d-f5c2794898ad.png)
+
+
 ### 추천 사이트
 
 - [이북](https://www.packtpub.com/application-development/python-automation-cookbook)
 - [파이썬](https://www.python.org/)
 - [이북(무료)](https://automatetheboringstuff.com/)
-- [패캠교육(커리큘럼 참고용)](https://www.fastcampus.co.kr/biz_camp_python4auto/) 
 
 
   
