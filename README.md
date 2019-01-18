@@ -44,9 +44,12 @@
 - [파이썬](https://www.python.org/)
 - [이북(무료)](https://automatetheboringstuff.com/)
 - [점프투파이썬](https://wikidocs.net/book/1)
+- [예제로 배우는 파이썬](http://pythonstudy.xyz/python/article/18-%ED%8C%A8%ED%82%A4%EC%A7%80)
 - [How to Build a Python Bot That Can Play Web Games](https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117)
 
 ### 툴 사용
 
 - VSCODE
+
+### 
   
