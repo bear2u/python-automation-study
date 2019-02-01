@@ -1,0 +1,11 @@
+from selenium import webdriver
+
+url = 'http://www.naver.com'
+
+browser = webdriver.PhantomJS()
+browser.implicitly_wait(3)
+browser.get(url)
+browser.save_screenshot("naver.com.png")
+browser.quit()
+
+# chmod a+x phantomsjs
