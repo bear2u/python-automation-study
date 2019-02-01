@@ -15,7 +15,7 @@
 ### 스터디 시간
 
 - 2019년 1월 18일(금요일)부터 시작
-- 매주 수요일 오후 8시 ~ 10시 또는 10시 30분
+- 매주 금요일 오후 8시 ~ 10시 또는 10시 30분
 
 ### 준비물
 
@@ -34,11 +34,22 @@
 - 3주차 : 레포트 자동화
 - 4주차 : 스프레드 시트를 자동화
 
+### 스터디 참고용
+![image](https://user-images.githubusercontent.com/9362317/51380406-0d405200-1b55-11e9-8f7d-f5c2794898ad.png)
+
+
 ### 추천 사이트
 
 - [이북](https://www.packtpub.com/application-development/python-automation-cookbook)
 - [파이썬](https://www.python.org/)
 - [이북(무료)](https://automatetheboringstuff.com/)
+- [점프투파이썬](https://wikidocs.net/book/1)
+- [예제로 배우는 파이썬](http://pythonstudy.xyz/python/article/18-%ED%8C%A8%ED%82%A4%EC%A7%80)
+- [How to Build a Python Bot That Can Play Web Games](https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117)
 
+### 툴 사용
 
+- VSCODE
+
+### 
   
