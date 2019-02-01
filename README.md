@@ -51,5 +51,11 @@
 
 - VSCODE
 
-### 
+### 크롤링 시작
+
+- https://hub.docker.com/r/wernight/phantomjs/
+
+### 그룹원 자료 링크
+
+- https://github.com/bear2u/python-automation-study/blob/master/study.py
   
