@@ -1,2 +1,4 @@
-delorean==1.0.0
+# delorean==1.0.0
 beautifulsoup4==4.6.0
+selenium==3.141.0
+python-dotenv==0.10.1
